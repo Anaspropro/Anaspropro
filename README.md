@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaspropro&" alt="anaspropro" /></p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anaspropro&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anaspropro&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaspropro" alt="anaspropro" /></a> </p>
