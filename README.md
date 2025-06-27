@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliuanas004@gmail.com**
 
-- 📄 Know about my experiences [webwiz.vercel.app](webwiz.vercel.app)
+- 📄 Know about my experiences [https://webwiz.vercel.app](https://webwiz.vercel.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
