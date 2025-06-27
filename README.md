@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Backend with django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anaspropro](https://github.com/Anaspropro)
+- 👨‍💻 All of my projects are available at [https://github.com/Anaspropro](https://github.com/Anaspropro?tab=repositories)
 
-- 💬 Ask me about **react, TypeScript, JavaScript, TailwindCSS**
+- 💬 Ask me about **React, TypeScript, JavaScript, TailwindCSS**
 
 - 📫 How to reach me **aliuanas004@gmail.com**
 
