@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Abimbola Aliu</h1>
 <h3 align="center">I am a Frontend Developer, CS Student</h3>
 
-- 🌱 I’m currently learning **Backend with django**
+- 🌱 I’m currently learning **Backend with nestjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anaspropro](https://github.com/Anaspropro)
 
