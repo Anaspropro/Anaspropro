@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anaspropro](https://github.com/Anaspropro)
 
-- 💬 Ask me about **react, TypeScript, JavaScript, TailwindCSS, NestJs, Postgres**
+- 💬 Ask me about **react, TypeScript, JavaScript, TailwindCSS, NestJs, Postgres, ORM**
 
 - 📫 How to reach me **aliuanas004@gmail.com**
 
-- 📄 Know about my experiences [webwiz.vercel.app](webwiz.vercel.app)
+- 📄 Know about my experiences [webwiz.vercel.app](https://webwiz.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
