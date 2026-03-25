@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas Abimbola Aliu</h1>
-<h3 align="center">I am a Frontend Developer, CS Student</h3>
+<h3 align="center">I am a Full Stack Developer, CS Graduate</h3>
 
-- 🌱 I’m currently learning **Backend with nestjs**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anaspropro](https://github.com/Anaspropro)
 
-- 💬 Ask me about **react, TypeScript, JavaScript, TailwindCSS, NestJs, Postgres, ORM**
+- 💬 Ask me about **react, TypeScript, JavaScript, TailwindCSS, NestJs, Postgres, ORM, Docker, DevOps**
 
 - 📫 How to reach me **aliuanas004@gmail.com**
 
