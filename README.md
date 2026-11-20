@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Worksure App<br>👯 I’m looking to collaborate on: Full Stack App<br>🌱 I’m currently learning: Cloud Computing<br>🧑‍🦰 My Portfolio: https://webwiz.vercel.app<br>💬 Ask me about: Web Dev<br>⚡ Fun fact
+🔭 I’m currently working on: Worksure App<br>👯 I’m looking to collaborate on: Full Stack Projects<br>🌱 I’m currently learning: DevOps Engineering<br>🧑‍🦰 My Portfolio: https://webwiz.vercel.app<br>💬 Ask me about: Web Dev<br>
 
 
 ## 🌐 Socials:
